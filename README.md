@@ -9,7 +9,7 @@
 
   ## 👋 About Me
   - 🇰🇷 Based in South Korea  
-  - 🎓 Majoring in **Applied Artificial Intelligence** at Sungkyunkwan University (SKKU)  
+  - 🎓 Majoring in **Computer Engineering at Hongik University**  
   - 💡 Pursuing a career as a **Backend Developer**  
   - 🔧 Passionate about scalable server-side architecture and clean code
 
@@ -20,7 +20,6 @@
   ### 🧑‍💻 Language  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
   <br/>
 
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
   <br/>
 
@@ -45,5 +43,11 @@
 
   [![xoruddl's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoruddl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoruddl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br/><br/>
+
+  ## 📫 How to reach me
+
+  ✉️ Email: taeyun1411@gmail.com
 
 </div>
