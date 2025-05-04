@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  xoruddl's github
+![header](https://capsule-render.vercel.app/api?type=waving)
 </div>
 
 <!--내용 부분-->
