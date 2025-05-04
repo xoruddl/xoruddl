@@ -47,6 +47,12 @@
 
   <br/><br/>
 
+  ## 🏅 Baekjoon Online Judge Tier
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taeyun1129)](https://solved.ac/taeyun1129)
+  
+  <br/><br/>
+
   ## 📫 How to reach me
 
   ✉️ Email: taeyun1411@gmail.com
