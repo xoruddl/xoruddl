@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving)
-</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
