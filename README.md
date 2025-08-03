@@ -4,8 +4,9 @@
   ## 👋 About Me
   - 🇰🇷 Based in South Korea  
   - 🎓 Majoring in **Computer Engineering at Hongik University**  
-  - 💡 Pursuing a career as a **Backend Developer**  
-  - 🔧 Passionate about scalable server-side architecture and clean code
+  - 💡 Pursuing a career as a **DevOps Engineer**  
+  - 🚀 Passionate about building scalable and reliable server-side infrastructure.
+  - 🛠️ Dedicated to continuous learning and implementing CI/CD, automation, and infrastructure as code (IaC) to create efficient development workflows.
 
   <br/>
 
