@@ -4,15 +4,16 @@
   ## 👋 About Me
   - 🇰🇷 Based in South Korea  
   - 🎓 Majoring in **Computer Engineering at Hongik University**  
-  - 💡 Pursuing a career as a **DevOps Engineer**  
-  - 🚀 Passionate about building scalable and reliable server-side infrastructure.
-  - 🛠️ Dedicated to continuous learning and implementing CI/CD, automation, and infrastructure as code (IaC) to create efficient development workflows.
+  - 💡 Pursuing a career as a **Server Developer**  
+  - 🚀 Interested in designing scalable and reliable server-side systems.
+  - ⚡ Focused on improving system performance through efficient architecture and continuous learning.
 
   <br/>
 
   ## 👨‍💼 Experience
-  - **알고리즘 학회(hi-arc) 운영진(2024.04~2025.08)**: 동아리 운영진으로서 매주 정기적인 알고리즘 스터디 지원
-  - **초급스터디장(2025-1학기)**: 자료 구조 및 알고리즘 등 다양한 기술 주제로 스터디 발표
+  - **Spring Boot Open-Source Contributor (Sep 2026)**: [Pull request merged](https://github.com/spring-projects/spring-boot/pull/51723).
+  - **Operations Team, HI-ARC Algorithm Society (Apr 2024 – Aug 2025)**: Supported weekly algorithm study sessions as a member of the society's operations team.
+  - **Beginner Study Lead (Spring 2025)**: Delivered study presentations on data structures, algorithms, and other technical topics.
 
   <br/>
   
@@ -38,13 +39,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
-
-  <br/><br/>
-
-  ## 📈 GitHub Stats
-
-  [![xoruddl's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoruddl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoruddl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/><br/>
 
