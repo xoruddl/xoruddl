@@ -11,7 +11,8 @@
   <br/>
 
   ## 👨‍💼 Experience
-  - **Spring Boot Open-Source Contributor (Sep 2026)**: [Pull request merged](https://github.com/spring-projects/spring-boot/pull/51723).
+  - **Spring Boot Open-Source Contributor**: [PR #51723](https://github.com/spring-projects/spring-boot/pull/51723).
+  - **Spring Framework Open-Source Contributor**: [PR #37310](https://github.com/spring-projects/spring-framework/pull/37310).
   - **Operations Team, HI-ARC Algorithm Society (Apr 2024 – Aug 2025)**: Supported weekly algorithm study sessions as a member of the society's operations team.
   - **Beginner Study Lead (Spring 2025)**: Delivered study presentations on data structures, algorithms, and other technical topics.
 
